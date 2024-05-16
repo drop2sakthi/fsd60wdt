@@ -1,3 +1,3 @@
-let name = 'sakthi from mac'
+let name = 'sakthi from git hub'
 let message = `Welcome ${name}`;
 console.log(message)
